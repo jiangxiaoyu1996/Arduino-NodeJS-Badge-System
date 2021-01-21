@@ -18,6 +18,6 @@
     "cylon-gpio": "^0.29.0",
     "cylon-i2c": "^0.26.1",
     "express": "^4.14.0",
-    "socket.io": "^1.5.0"
+    "socket.io": "^2.4.0"
   }
 }
